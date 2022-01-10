@@ -1,0 +1,10 @@
+C:\Users\master\source\repos\CSProject\CSProject\bin\Debug\CSProject.exe.config
+C:\Users\master\source\repos\CSProject\CSProject\bin\Debug\CSProject.exe
+C:\Users\master\source\repos\CSProject\CSProject\bin\Debug\CSProject.pdb
+C:\Users\master\source\repos\CSProject\CSProject\obj\Debug\CSProject.csprojAssemblyReference.cache
+C:\Users\master\source\repos\CSProject\CSProject\obj\Debug\CSProject.Form1.resources
+C:\Users\master\source\repos\CSProject\CSProject\obj\Debug\CSProject.Properties.Resources.resources
+C:\Users\master\source\repos\CSProject\CSProject\obj\Debug\CSProject.csproj.GenerateResource.cache
+C:\Users\master\source\repos\CSProject\CSProject\obj\Debug\CSProject.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\CSProject\CSProject\obj\Debug\CSProject.exe
+C:\Users\master\source\repos\CSProject\CSProject\obj\Debug\CSProject.pdb
