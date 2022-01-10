@@ -1,0 +1,14 @@
+create user cs identified by cs;
+
+grant connect, resource to cs;
+
+connect cs
+
+
+create table gamer(
+아이디 char(20),
+비밀번호 char(20),
+단어점수 float(22),
+짧은글점수 float(22),
+긴글점수 float(22),
+두더지점수 float(22));
